@@ -1,0 +1,8 @@
+version: 1.3.0
+files:
+  - url: PingTrack-Setup-1.3.0.exe
+    sha512: snH0m15iMyaY/hq5a4qjwccrggNDRK/kmfZrUsDjH/0foZ5uYwmjE89qfQQUCbKIbZfHYDN2EwG+i3L/mvWGrQ==
+    size: 51858976
+path: PingTrack-Setup-1.3.0.exe
+sha512: snH0m15iMyaY/hq5a4qjwccrggNDRK/kmfZrUsDjH/0foZ5uYwmjE89qfQQUCbKIbZfHYDN2EwG+i3L/mvWGrQ==
+releaseDate: '2020-09-09T01:33:27.450Z'
